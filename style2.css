@@ -74,14 +74,6 @@ body,html{
     display: none;
 }
 
-.page_m {
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-    margin: 0;
-    padding: 0;
-    position: relative;
-  }
  
   #menuToggle {
     display: flex;
