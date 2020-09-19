@@ -107,7 +107,7 @@ body,html{
     flex-direction: column;
     position: relative;
     top: 20px;
-    left: 30px;
+    left: 70%;
     z-index: 1;
     -webkit-user-select: none;
     user-select: none;}
