@@ -93,8 +93,8 @@ body,html {
     display: flex;
     flex-direction: column;
     position: relative;
-    top: 30px;
-    left: 30px;
+    top: 3vh;
+    left: 3vh;
     z-index: 1;
     -webkit-user-select: none;
     user-select: none;}
@@ -209,7 +209,7 @@ body,html {
     width: auto;
     margin: 0;
     overflow: hidden;
-    height: 30%;
+    height: 10vh;
     
 
 }
